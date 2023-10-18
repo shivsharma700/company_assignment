@@ -1,6 +1,6 @@
 import "./secondRow.css";
 import Overview from "../../Overview/Overview"
-import Customers from "../../customers/customers";
+import Customers from "../../customers/Customers";
 
 const SecondRow = () => {
   return (
