@@ -1,0 +1,26 @@
+
+@media screen and (width >= 350px) {
+    .Customer{
+        width: 20rem;
+        height: 18rem;
+        margin-bottom: 1rem;
+        height: 20rem;
+    }
+    .customerText{
+        font-size: 0.6rem;
+        font-weight: 600;
+    }
+}
+  
+@media screen and (width >= 601px) {
+    .Customer{
+        width: 12rem;
+        height: 18rem;
+        margin-bottom: 1rem;
+        height: 20rem;
+    }
+    .customerText{
+        font-size: 0.8rem;
+        font-weight: 600;
+    }
+}

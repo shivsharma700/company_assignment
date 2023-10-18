@@ -1,0 +1,17 @@
+@media screen and (width >= 350px) {
+    .overview{
+        width: 15rem;
+        height: 8rem;
+        padding: 5px;
+        margin-bottom: 2rem;
+        margin-right: 5px;
+      }    
+}
+  
+@media screen and (width >= 601px) {
+      .overview{
+        width: 46rem;
+        height: 20rem;
+        padding: 1rem
+      }
+}

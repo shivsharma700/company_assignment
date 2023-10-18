@@ -1,0 +1,16 @@
+
+@media screen and (width >= 351px) {
+    .FirstRow{
+        margin-top: 2rem;
+        padding-left: 8px;
+        gap: 1rem;
+     }
+}
+  
+@media screen and (width >= 810px) {
+      .FirstRow{
+         margin-top: 2rem;
+         padding-left: 8px;
+         gap: 2rem;
+      }
+}

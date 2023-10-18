@@ -1,0 +1,28 @@
+@media screen and (width >= 350px) {
+    .color{
+        /* height: 70%; */
+        width: 15px;
+     }
+     .textMonth{
+        font-size: 5px;
+        font-weight: 700;
+     }
+     .month{
+        margin-bottom: 8px;
+     }
+}
+  
+@media screen and (width >= 601px) {
+     .color{
+        /* height: 50%; */
+        width: 3rem;
+        margin-bottom: 1rem;
+     }
+     .textMonth{
+        font-size: 13px;
+        margin-left: 0;
+     }
+     .month{
+        margin-bottom: 4px;
+     }
+}

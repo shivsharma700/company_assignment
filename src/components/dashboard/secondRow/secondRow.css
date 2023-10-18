@@ -1,0 +1,14 @@
+
+@media screen and (width >= 350px) {
+    .secondRow{
+        margin-top: 2rem;
+        /* padding-left: 8px; */
+    }
+}
+  
+@media screen and (width >= 601px) {
+    .secondRow{
+        margin-top: 2rem;
+        padding-left: 8px;
+    }
+}

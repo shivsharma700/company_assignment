@@ -1,0 +1,20 @@
+.dashboard{
+    width: 70%;
+}
+
+@media screen and (width >= 350px) {
+    
+  .dashboard{
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+}
+
+@media screen and (width >= 810px) {
+    
+    .dashboard{
+      width: 82%;
+      padding-left: 3rem;
+      padding-right: 3rem;
+    }
+}

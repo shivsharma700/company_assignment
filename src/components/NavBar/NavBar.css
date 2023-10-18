@@ -1,0 +1,39 @@
+
+
+@media screen and (width >= 350px) {
+    .NavBar{
+        width: 100%;
+        margin-top: 1rem;
+        flex-wrap: wrap;
+    }
+    .SearchText{
+        margin-top: 0.6rem;
+    }
+    .searchIcon{
+        margin-top: 0.6rem;
+        margin-left: 8px;
+    }
+    .text{
+        margin-left: 0;
+    }
+}
+
+@media screen and (width >= 601px) {
+    .NavBar{
+        margin-top: 2rem;
+    }
+    .searchIcon{
+        width: 2rem;
+        padding: 5px;
+        height: 2rem;
+
+    }
+    .SearchText{
+        height: 2rem;
+    }
+    .text{
+        font-weight: 600;
+        margin-left: 0rem;
+        width: 78%;
+    }
+}

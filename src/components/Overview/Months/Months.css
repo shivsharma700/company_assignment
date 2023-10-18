@@ -1,0 +1,14 @@
+@media screen and (width >= 350px) {
+    .months{
+        height: 85%;
+        /* gap : 0 */
+        gap : 4px
+     }
+}
+  
+@media screen and (width >= 601px) {
+     .months{
+        height: 85%;
+        gap : 0.8rem
+     }
+}

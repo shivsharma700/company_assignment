@@ -1,0 +1,61 @@
+@media screen and (width >= 351px) {
+    .card{
+        width: 15rem;
+        height: 8rem;
+        padding: 1rem 0.4rem;
+      }
+      .iconOutSide{
+        width: 5rem;
+        height: 5rem;
+        border-radius: 50%;
+      }
+      .iconOutSide{
+        /* width: 55%;
+        height: 55%; */
+        font-size: 3rem;
+      }
+      .upperText{
+        font-size: 10px;
+        font-weight: 600;
+      }
+      .middleText{
+        font-size: 15px;
+        font-weight: 700;
+      }
+      .downText{
+        font-size: 9px;
+        font-weight: 800;
+      }
+}
+  
+@media screen and (width >= 601px) {
+      .card{
+        width: 16rem;
+        height: 10rem;
+        padding-right: 0;
+        padding-left: 0;
+      }
+      .iconOutSide{
+        width: 7rem;
+        height: 7rem;
+        border-radius: 50%;
+      }
+      .iconOutSide{
+        /* width: 55%;
+        height: 55%; */
+        font-size: 4rem;
+      }
+      .upperText{
+        font-size: 10px;
+        font-weight: 600;
+      }
+      .middleText{
+        font-size: 15px;
+        font-weight: 800;
+        font-family: Arial;
+      }
+      .downText{
+        font-size: 9px;
+        font-weight: 800;
+      }
+}
